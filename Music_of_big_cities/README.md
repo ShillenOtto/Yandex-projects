@@ -38,5 +38,5 @@ conda install pandas # установка pandas
 
 ```
 
-## Документация на используемые библиотеки
+## Документация на используемые библиотеки:
 - [Pandas](https://pandas.pydata.org/docs)
