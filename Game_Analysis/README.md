@@ -55,7 +55,7 @@ conda install math # установка math
 conda install scipy # установка scipy
 ```
 
-## Документация на используемые библиотеки
+## Документация на используемые библиотеки:
 - [Pandas](https://pandas.pydata.org/docs)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Seaborn](https://seaborn.pydata.org/index.html)
