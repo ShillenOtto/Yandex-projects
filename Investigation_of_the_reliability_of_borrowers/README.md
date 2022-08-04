@@ -32,7 +32,6 @@
 ```
 !pip install pandas # установка pandas
 !pip install pymystem3 # установка лемматизации
-
 ```
 
 В Anaconda:
