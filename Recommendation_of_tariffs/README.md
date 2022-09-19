@@ -1,4 +1,4 @@
-# Описания проекта - "Определение выгодного тарифа для телеком компании"
+# Описания проекта - "Классификаиция клиентов телеком компании"
 
 
 ## Данные
@@ -29,10 +29,10 @@
 
 ## Задача
 
-Нужно скорректировать рекламный бюджет, но для этого коммерческий департамент хочет понять, какой тариф приносит больше денег. Нам нужно сделать предварительный анализ тарифов на небольшой выборке клиентов. Нужно проанализировать поведение клиентов и сделать вывод — какой тариф лучше.
+Построим модель с максимально большим значением *accuracy*. Нужно довести долю правильных ответов по крайней мере до 0.75. Проверим *accuracy* на тестовой выборке самостоятельно.
 
 ## Используемые библиотеки
-*pandas*, *matplotlib*, *seaborn*, *numpy*, *math*, *scipy*.
+*pandas*, *matplotlib*, *scikit-learn*.
 
 ### Установка необходимых библиотек (Это поможет использовать код без ошибок и склеек)
 
@@ -42,13 +42,7 @@
 
 !pip install matplotlib # установка matplotlib
 
-!pip install seaborn # установка seaborn
-
-!pip install numpy # установка numpy
-
-!pip install math # установка math
-
-!pip install scipy # установка scipy
+!pip install scikit-learn # установка scikit-learn
 ```
 
 В Anaconda:
@@ -57,19 +51,11 @@ conda install pandas # установка pandas
 
 conda install matplotlib # установка matplotlib
 
-conda install seaborn # установка seaborn
+conda install scikit-learn # установка scikit-learn
 
-conda install numpy # установка numpy
-
-conda install math # установка math
-
-conda install scipy # установка scipy
 ```
 
 ## Документация на используемые библиотеки:
 - [Pandas](https://pandas.pydata.org/docs)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
-- [Seaborn](https://seaborn.pydata.org/index.html)
-- [NumPy](https://numpy.org/doc/1.23)
-- [Math](https://docs.python.org/3/library/math.html)
-- [SciPy](https://docs.scipy.org/doc/scipy/)
+- [Scikit-learn](https://scikit-learn.org/stable/)

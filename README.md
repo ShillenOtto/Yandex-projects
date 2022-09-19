@@ -10,4 +10,4 @@
 | [Исследование надёжности заёмщиков](Investigation_of_the_reliability_of_borrowers) | На основе статистики о платёжеспособности клиентов исследовать влияет ли на факт возврата кредита в срок. | *pandas*, *Mystem*. |
 | [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](Research_of_ads_for_the_sale_of_apartments) | Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир. | *pandas*, *matplotlib*, *seaborn*. |
 | [Определение выгодного тарифа для телеком компании](Determination_of_a_promising_tariff_for_a_telecom_company) | На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа. | *pandas*, *matplotlib*, *seaborn*, *numpy*, *scipy*. |
-| [Классификаиция клиентов телеком компании](Determination_of_a_promising_tariff_for_a_telecom_company) | На основе данных предложить клиенту тариф. | *pandas*, *matplotlib*, *scikit-learn*. |
+| [Классификаиция клиентов телеком компании](Recommendation_of_tariffs) | На основе данных предложить клиенту тариф. | *pandas*, *matplotlib*, *scikit-learn*. |
