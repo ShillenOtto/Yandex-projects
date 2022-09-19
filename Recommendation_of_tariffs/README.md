@@ -42,7 +42,7 @@
 
 !pip install matplotlib # установка matplotlib
 
-!pip install scipy # установка scipy
+!pip install scikit-learn # установка scikit-learn
 ```
 
 В Anaconda:
@@ -51,17 +51,11 @@ conda install pandas # установка pandas
 
 conda install matplotlib # установка matplotlib
 
-conda install seaborn # установка seaborn
+conda install scikit-learn # установка scikit-learn
 
-
-
-conda install math # установка math
-
-conda install scipy # установка scipy
 ```
 
 ## Документация на используемые библиотеки:
 - [Pandas](https://pandas.pydata.org/docs)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
-- [Seaborn](https://seaborn.pydata.org/index.html)
-
+- [Scikit-learn](https://scikit-learn.org/stable/)
