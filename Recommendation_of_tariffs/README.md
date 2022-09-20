@@ -43,6 +43,9 @@
 !pip install matplotlib # установка matplotlib
 
 !pip install scikit-learn # установка scikit-learn
+
+!pip install numpy # установка numpy
+
 ```
 
 В Anaconda:
@@ -53,9 +56,12 @@ conda install matplotlib # установка matplotlib
 
 conda install scikit-learn # установка scikit-learn
 
+conda install numpy # установка numpy
+
 ```
 
 ## Документация на используемые библиотеки:
 - [Pandas](https://pandas.pydata.org/docs)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
 - [Scikit-learn](https://scikit-learn.org/stable/)
+- [NumPy](https://numpy.org/doc/1.23)
