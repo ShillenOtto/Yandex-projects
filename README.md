@@ -13,4 +13,4 @@
 | [Классификаиция клиентов телеком компании](Recommendation_of_tariffs) | На основе данных предложить клиенту тариф. | *pandas*, *matplotlib*, *scikit-learn*. |
 | [Прогнозирование оттока клиента Банка](Outflow_of_bank_customers) | На основе данных из банка определить клиента, который может уйти. | *pandas*, *matplotlib*, *scikit-learn*, *numpy*. |
 | [Определение наиболее выгодного региона нефтедобычи](Choosing_the_location_for_the_well) | На основе данных геологи разведки выбрать район добычи нефти. | *pandas*, *scikit-learn*, *numpy*. |
-| [Исследование технологического процесса очистки золота](Investigation_of_the_technological_process_of_gold_purification) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | *pandas*, *matplotlib*, *scikit-learn*, *numpy*. |
+| [Исследование технологического процесса очистки золота](Investigation_of_the_technological_process_of_gold_purification) | Спрогнозировать концентрацию золота при проведении процесса очистки золота. | *pandas*, *matplotlib*, *seaborn*, *scikit-learn*, *numpy*. |
